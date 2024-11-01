@@ -1,0 +1,9 @@
+site_name: Documentação do projeto
+nav:
+  - Home: index.md
+  - Requisitos: requisitos.md
+theme: material
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python

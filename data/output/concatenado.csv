@@ -1,0 +1,501 @@
+Colaborador_id,Colaborador_nome,Departamento,Motivo_da_ausência,Horas_de_ausência,Data_da_ausência,Salário
+8043,Diego Dias,Marketing,Doença,8,2023-06-15,8011.18
+93612,Sr. Eduardo Gonçalves,Vendas,Viagem de negócios,2,2023-06-01,11666.48
+29337,Sra. Natália Souza,Vendas,Outros,8,2023-06-26,8032.58
+51319,Pedro Henrique Pires,Recursos Humanos,Viagem de negócios,4,2023-06-17,2824.88
+67371,Emanuel Almeida,P&D,Problemas pessoais,4,2023-06-01,3431.72
+92208,Agatha Mendes,Financeiro,Viagem de negócios,3,2023-06-06,2546.44
+12256,Sophia Viana,Engenharia,Doença,1,2023-06-17,12055.14
+5711,Raul Silva,Recursos Humanos,Problemas pessoais,3,2023-06-18,5623.71
+97209,Dr. Yago da Costa,Engenharia,Problemas pessoais,7,2023-06-10,8845.58
+83120,Lívia Sales,Vendas,Problemas pessoais,6,2023-06-13,5274.38
+47790,Cecília Silveira,Recursos Humanos,Doença,5,2023-06-04,3188.52
+51447,Emanuel Silva,TI,Doença,1,2023-06-01,2740.57
+33945,Srta. Gabriela Caldeira,Marketing,Problemas pessoais,3,2023-06-19,9925.14
+96405,Sophie da Rocha,Atendimento ao Cliente,Consulta médica,7,2023-06-14,6500.95
+61853,Joana Nunes,Financeiro,Problemas pessoais,8,2023-06-24,3890.79
+61190,Sr. Leonardo Silveira,Vendas,Consulta médica,4,2023-06-23,2526.21
+84048,Ana Julia Souza,Atendimento ao Cliente,Doença,2,2023-06-22,9447.57
+45074,Luiz Felipe Alves,Financeiro,Outros,8,2023-06-24,9528.06
+69007,Marcelo da Cunha,Engenharia,Doença,2,2023-06-13,11113.85
+80455,Rafael Azevedo,Operações,Doença,3,2023-06-10,8461.06
+25392,Joaquim da Rocha,TI,Viagem de negócios,4,2023-06-08,8354.6
+89862,Luiza Moraes,Engenharia,Viagem de negócios,8,2023-06-08,4337.79
+94885,Sra. Maria Cecília Carvalho,Engenharia,Viagem de negócios,3,2023-06-17,7462.1
+9684,Maria Cecília Vieira,TI,Consulta médica,1,2023-06-04,3798.8
+3928,Vinicius Freitas,Engenharia,Doença,4,2023-06-11,7093.79
+97736,Dra. Maria Barbosa,Recursos Humanos,Consulta médica,5,2023-06-03,8602.63
+90928,Rebeca Ribeiro,Jurídico,Outros,8,2023-06-11,10667.17
+58107,Helena Sales,Financeiro,Problemas pessoais,1,2023-06-03,2993.25
+9896,Ana Lívia Nunes,Vendas,Consulta médica,4,2023-06-23,5818.01
+16192,Daniel Silveira,Vendas,Doença,8,2023-06-03,5901.85
+33287,Enzo Carvalho,Recursos Humanos,Consulta médica,3,2023-06-08,8468.63
+77680,Clara Pinto,Financeiro,Consulta médica,3,2023-06-02,12354.41
+41530,Dra. Maria Cecília Gonçalves,Marketing,Viagem de negócios,8,2023-06-01,7036.46
+56335,Calebe Costela,Engenharia,Problemas pessoais,1,2023-06-09,3096.08
+69151,Ana Carolina Monteiro,Marketing,Doença,1,2023-06-24,7342.66
+16712,Sr. Luiz Gustavo Martins,Financeiro,Problemas pessoais,2,2023-06-08,8267.64
+56670,Juliana Farias,Marketing,Consulta médica,2,2023-06-25,9244.78
+54422,Ana Luiza Moraes,Financeiro,Doença,6,2023-06-28,3093.99
+72608,Rebeca Monteiro,Jurídico,Problemas pessoais,1,2023-06-07,8453.18
+57842,Emilly da Mota,P&D,Consulta médica,2,2023-06-21,10403.13
+21106,Bernardo Rodrigues,Atendimento ao Cliente,Consulta médica,8,2023-06-24,9897.44
+39272,Sr. Matheus Martins,Financeiro,Doença,1,2023-06-05,2930.94
+60823,Lorenzo Aragão,Atendimento ao Cliente,Consulta médica,5,2023-06-23,2825.1
+69122,Maria Sophia Barbosa,Financeiro,Doença,6,2023-06-24,10750.34
+83824,Giovanna Jesus,Recursos Humanos,Consulta médica,4,2023-06-28,3085.55
+13975,Leonardo Cunha,Jurídico,Consulta médica,2,2023-06-29,7300.46
+76303,João Miguel Moreira,Engenharia,Viagem de negócios,7,2023-06-18,8550.89
+38890,Maria Clara Novaes,P&D,Outros,7,2023-06-06,4706.95
+90328,Sr. Emanuel da Costa,Jurídico,Doença,6,2023-06-14,5371.06
+89096,Sr. Thales Gonçalves,Engenharia,Viagem de negócios,8,2023-06-07,8233.15
+34573,Nicole Silva,Marketing,Outros,8,2023-06-16,5468.25
+26195,Lorena Sales,Jurídico,Viagem de negócios,1,2023-06-29,10783.29
+15091,Isaac Lima,Jurídico,Problemas pessoais,5,2023-06-24,3745.32
+75176,Caroline Sales,P&D,Doença,6,2023-06-17,11860.81
+60278,Danilo Caldeira,Atendimento ao Cliente,Outros,1,2023-06-09,10785.62
+18385,Sra. Stephany da Conceição,Jurídico,Problemas pessoais,8,2023-06-26,3313.18
+10082,Davi Lucca da Rocha,Recursos Humanos,Problemas pessoais,8,2023-06-22,11773.86
+61168,Alexandre Farias,Marketing,Viagem de negócios,2,2023-06-11,9254.62
+92697,Pedro Miguel Rocha,Atendimento ao Cliente,Viagem de negócios,8,2023-06-23,11809.37
+26955,Ana Beatriz Cavalcanti,Vendas,Problemas pessoais,2,2023-06-23,7364.58
+63385,Helena Ribeiro,TI,Outros,2,2023-06-08,7012.43
+92516,Sr. Levi Souza,Atendimento ao Cliente,Problemas pessoais,3,2023-06-12,6809.54
+44580,Sr. Luiz Felipe Nogueira,P&D,Outros,8,2023-06-16,12071.05
+11540,Clara Pereira,Atendimento ao Cliente,Doença,7,2023-06-16,10120.04
+15031,Dr. Isaac Rodrigues,TI,Doença,1,2023-06-21,5710.21
+24468,Alice Novaes,Marketing,Problemas pessoais,5,2023-06-09,3668.52
+61205,Luigi Cunha,Jurídico,Consulta médica,5,2023-06-02,3184.65
+71205,Dra. Sabrina Moura,P&D,Consulta médica,7,2023-06-16,9378.9
+70640,Nina da Costa,P&D,Outros,8,2023-06-29,10960.25
+72039,Kaique Farias,Engenharia,Doença,3,2023-06-22,11753.12
+65865,Thomas Cardoso,Recursos Humanos,Outros,3,2023-06-04,5477.98
+38074,Dr. João Gabriel Caldeira,Operações,Doença,7,2023-06-14,10493.33
+28772,Danilo Rezende,Marketing,Viagem de negócios,8,2023-06-26,7140.62
+91516,Sr. André Souza,TI,Outros,3,2023-06-07,2563.51
+38450,Theo Monteiro,Atendimento ao Cliente,Outros,7,2023-06-01,11002.46
+14670,Letícia Campos,Atendimento ao Cliente,Doença,7,2023-06-01,11247.86
+75306,Fernanda Pires,TI,Consulta médica,7,2023-06-13,8149.56
+95118,Ana Júlia Cardoso,Financeiro,Outros,4,2023-06-09,6969.54
+36940,Arthur da Cunha,Recursos Humanos,Doença,4,2023-06-12,5585.56
+5976,Srta. Luiza Martins,Vendas,Doença,6,2023-06-15,5295.95
+78756,Srta. Sofia Araújo,TI,Outros,2,2023-06-22,12102.6
+31060,Maria Luiza Dias,Financeiro,Doença,4,2023-06-18,10292.25
+81232,Paulo Porto,Atendimento ao Cliente,Problemas pessoais,3,2023-06-16,5948.22
+47449,Kevin Alves,TI,Problemas pessoais,6,2023-06-24,7610.78
+56634,Bárbara Rocha,Vendas,Consulta médica,6,2023-06-22,4959.73
+40563,Bianca Nogueira,Jurídico,Outros,2,2023-06-20,9517.05
+14003,Pietro Farias,Vendas,Viagem de negócios,3,2023-06-25,12214.84
+19652,Sr. Pedro Miguel da Rocha,Atendimento ao Cliente,Doença,5,2023-06-05,2863.84
+16943,Lavínia da Mota,Vendas,Outros,8,2023-06-05,4688.06
+98474,Melissa Fogaça,Atendimento ao Cliente,Viagem de negócios,8,2023-06-01,5296.56
+29670,Maria Sophia Gonçalves,TI,Outros,8,2023-06-17,5656.57
+29857,Vitor Gabriel Ferreira,Atendimento ao Cliente,Outros,3,2023-06-19,7438.87
+6286,Carlos Eduardo Alves,Vendas,Doença,4,2023-06-27,8459.78
+76230,Anthony Cunha,TI,Outros,7,2023-06-23,4155.25
+75530,Sabrina Carvalho,Operações,Problemas pessoais,1,2023-06-05,2961.33
+95331,Dr. Pietro Moraes,Vendas,Doença,7,2023-06-17,10113.66
+54693,Vicente Souza,Vendas,Outros,2,2023-06-09,3815.51
+61685,Giovanna Cavalcanti,Marketing,Outros,6,2023-06-14,8787.75
+87873,Thomas Novaes,Operações,Consulta médica,3,2023-06-14,6260.29
+24932,Maria Fernanda Martins,Financeiro,Consulta médica,2,2023-06-27,5029.77
+15536,Yuri Ramos,Operações,Outros,5,2023-06-07,10748.32
+9845,Júlia Costela,Engenharia,Problemas pessoais,6,2023-06-24,8173.01
+77014,Luiz Gustavo Azevedo,Engenharia,Viagem de negócios,4,2023-06-26,6151.06
+69642,Laís Martins,Operações,Consulta médica,6,2023-06-15,4694.36
+88954,Maria Clara Rocha,Jurídico,Consulta médica,6,2023-06-03,4970.26
+23613,Enrico da Costa,Vendas,Consulta médica,1,2023-06-16,3826.49
+93348,Erick Martins,Vendas,Doença,2,2023-06-22,11627.22
+84289,Davi Peixoto,Jurídico,Doença,8,2023-06-11,10966.63
+20241,Daniela Moura,Operações,Doença,6,2023-06-22,11933.21
+70338,Luiz Otávio Pires,Marketing,Outros,2,2023-06-22,4556.11
+59096,Lorena Moreira,Jurídico,Doença,3,2023-06-09,4211.89
+82013,Danilo Moura,Recursos Humanos,Doença,3,2023-06-18,12382.86
+46472,Júlia Rezende,Operações,Viagem de negócios,7,2023-06-05,12343.02
+4255,Maria Fernanda Costa,Marketing,Problemas pessoais,7,2023-06-18,8066.33
+92757,Srta. Catarina Gomes,Jurídico,Consulta médica,1,2023-06-28,4049.47
+75750,Heitor da Cunha,P&D,Doença,2,2023-06-02,11051.19
+66508,Kaique Silva,P&D,Consulta médica,8,2023-06-09,10994.88
+46797,Thiago Almeida,Marketing,Consulta médica,7,2023-06-25,4249.48
+39237,Mariana Barros,P&D,Consulta médica,8,2023-06-16,10651.87
+49285,Antônio Ribeiro,Marketing,Consulta médica,4,2023-06-20,4567.48
+61621,Davi Luiz Cunha,Operações,Consulta médica,3,2023-06-17,9858.39
+30666,Ana Sophia Melo,Recursos Humanos,Outros,2,2023-06-20,9266.09
+33770,Lucas Pires,P&D,Outros,4,2023-06-20,2967.31
+35432,Sr. Erick Pereira,Recursos Humanos,Doença,4,2023-06-02,5710.24
+78662,Melissa Carvalho,TI,Outros,7,2023-06-26,5340.1
+2863,Ana Laura Carvalho,Engenharia,Consulta médica,2,2023-06-13,5663.23
+17040,Sabrina Correia,P&D,Viagem de negócios,5,2023-06-22,9853.24
+34754,Juliana Fogaça,Engenharia,Problemas pessoais,1,2023-06-24,7193.96
+6984,Sr. Gabriel da Costa,Marketing,Consulta médica,2,2023-06-29,3339.16
+94410,Luiz Miguel Correia,Operações,Doença,4,2023-06-04,6097.61
+901,Gabriela Nascimento,Engenharia,Outros,8,2023-06-16,7214.0
+75773,Dr. Rodrigo Cunha,Operações,Problemas pessoais,1,2023-06-23,11290.84
+53189,Clara Gonçalves,Financeiro,Doença,5,2023-06-17,6511.92
+59333,Maria Luiza Jesus,Recursos Humanos,Viagem de negócios,3,2023-06-24,8836.66
+2371,Vitor Gabriel Martins,Atendimento ao Cliente,Problemas pessoais,2,2023-06-29,10735.55
+10828,Sra. Marina Gonçalves,Operações,Outros,7,2023-06-13,9887.46
+14737,Luiz Felipe Lopes,Atendimento ao Cliente,Consulta médica,3,2023-06-16,8027.49
+35079,Vinicius da Costa,P&D,Viagem de negócios,4,2023-06-11,5612.76
+57786,Maria Silveira,Operações,Viagem de negócios,3,2023-06-02,11481.55
+61994,Srta. Nina Alves,Atendimento ao Cliente,Doença,6,2023-06-14,10847.46
+35411,Sr. Murilo Pires,Vendas,Outros,1,2023-06-25,10851.43
+72084,Maria Luiza Costela,Operações,Problemas pessoais,1,2023-06-14,4220.75
+51503,Pedro Lucas Cunha,Financeiro,Consulta médica,5,2023-06-28,10075.77
+86704,Vicente Aragão,Operações,Problemas pessoais,2,2023-06-26,6283.91
+94916,Maysa Lopes,Atendimento ao Cliente,Consulta médica,5,2023-06-29,5331.57
+55524,Vitor Hugo Nascimento,Vendas,Doença,4,2023-06-13,7453.82
+45804,Sra. Juliana Castro,Vendas,Outros,1,2023-06-04,8328.48
+93986,Leonardo Farias,Operações,Problemas pessoais,2,2023-06-21,8873.02
+55685,Enzo Gabriel Nogueira,Marketing,Doença,1,2023-06-27,10715.4
+3433,Amanda Barros,Operações,Doença,5,2023-06-29,6897.44
+61350,Ana Pereira,Jurídico,Consulta médica,8,2023-06-09,10047.49
+80554,Henrique da Cunha,Jurídico,Viagem de negócios,5,2023-06-22,3232.42
+42299,Nicole Cardoso,TI,Doença,2,2023-06-05,4904.17
+96835,Enzo Silva,Marketing,Viagem de negócios,5,2023-06-04,3444.0
+97830,Srta. Juliana Novaes,Operações,Outros,5,2023-06-15,5478.57
+15142,Paulo Cunha,Jurídico,Viagem de negócios,4,2023-06-26,6010.36
+56475,Sr. Henrique Jesus,Jurídico,Outros,5,2023-06-27,11545.9
+40567,Valentina Vieira,TI,Consulta médica,5,2023-06-24,4415.13
+84022,Thales Araújo,Marketing,Doença,1,2023-06-15,5526.83
+87688,Calebe Ribeiro,Jurídico,Outros,6,2023-06-11,11888.09
+57446,Pietro Caldeira,Financeiro,Doença,8,2023-06-08,11809.91
+13216,Larissa Cardoso,Jurídico,Consulta médica,4,2023-06-18,4889.68
+41605,Anthony Cardoso,Recursos Humanos,Problemas pessoais,7,2023-06-18,5761.79
+20757,Alícia Araújo,TI,Viagem de negócios,7,2023-06-03,5780.52
+6096,Ian Nogueira,Engenharia,Doença,3,2023-06-07,2642.16
+99833,Marcela Martins,Vendas,Outros,8,2023-06-12,5693.17
+91661,Ana Beatriz Rocha,Financeiro,Viagem de negócios,1,2023-06-27,6062.47
+38943,Nina Araújo,Vendas,Viagem de negócios,7,2023-06-24,5874.73
+60850,Bárbara Farias,Vendas,Viagem de negócios,2,2023-06-08,12282.1
+60765,Erick Ferreira,Financeiro,Outros,7,2023-06-25,6341.93
+19184,Renan Ribeiro,Operações,Problemas pessoais,5,2023-06-23,6188.23
+22853,Ian Azevedo,Marketing,Consulta médica,4,2023-06-15,8264.91
+37989,Evelyn Silva,Vendas,Consulta médica,5,2023-06-04,7295.52
+70074,Lorenzo da Mota,Operações,Doença,8,2023-06-29,3717.87
+22039,Cauã Barbosa,Recursos Humanos,Doença,8,2023-06-18,4417.29
+60100,Dr. Theo Caldeira,Operações,Doença,7,2023-06-29,9538.75
+69387,Dra. Rafaela Caldeira,Operações,Outros,3,2023-06-24,7101.51
+6567,Dra. Lorena Silveira,Atendimento ao Cliente,Doença,4,2023-06-07,4375.19
+97576,Eduarda Duarte,Engenharia,Consulta médica,6,2023-06-05,9541.84
+89113,Maria Sophia Moura,Financeiro,Outros,8,2023-06-02,11506.36
+13694,Maria Cecília Almeida,TI,Viagem de negócios,2,2023-06-24,12185.5
+46468,Sr. Levi Novaes,Atendimento ao Cliente,Consulta médica,7,2023-06-19,9432.76
+15994,Ana Carolina Rodrigues,Recursos Humanos,Viagem de negócios,5,2023-06-21,4211.85
+63995,Srta. Emilly Araújo,Operações,Viagem de negócios,7,2023-06-28,7874.54
+61631,Alícia Martins,Operações,Viagem de negócios,7,2023-06-03,6671.29
+69119,Sr. Leonardo Araújo,Operações,Viagem de negócios,7,2023-06-07,7920.03
+25469,Matheus das Neves,Engenharia,Outros,1,2023-06-20,6081.67
+2630,João Guilherme da Mota,TI,Outros,3,2023-06-19,11666.79
+42919,Srta. Milena da Mata,Financeiro,Viagem de negócios,7,2023-06-05,6141.52
+73439,Joaquim Farias,P&D,Problemas pessoais,3,2023-06-16,11906.36
+72709,Beatriz da Mata,Operações,Consulta médica,1,2023-06-02,10816.59
+67756,Luiza Aragão,Vendas,Problemas pessoais,3,2023-06-05,11632.42
+18192,Sra. Maria Luiza Cunha,Jurídico,Outros,2,2023-06-14,8347.15
+7101,Maria Cecília Dias,P&D,Doença,1,2023-06-12,4537.25
+29481,Sophia Melo,Engenharia,Viagem de negócios,5,2023-06-24,6869.17
+23107,Dra. Lavínia Rocha,P&D,Outros,4,2023-06-06,8923.93
+46686,Francisco Silva,P&D,Problemas pessoais,2,2023-06-02,7131.25
+92222,Bianca Teixeira,P&D,Problemas pessoais,6,2023-06-26,9463.26
+26501,Larissa Jesus,Jurídico,Problemas pessoais,2,2023-06-28,5654.84
+65352,Isabella Carvalho,Recursos Humanos,Problemas pessoais,1,2023-06-19,7937.0
+15191,Ana Vitória da Paz,Atendimento ao Cliente,Outros,8,2023-06-03,6975.63
+11845,Anthony da Mata,Recursos Humanos,Problemas pessoais,3,2023-06-15,7818.68
+5280,Emanuel Aragão,Jurídico,Outros,4,2023-06-29,9142.07
+42969,Dra. Maria Alice Cavalcanti,Atendimento ao Cliente,Consulta médica,3,2023-06-21,4347.79
+13125,Danilo Fernandes,Recursos Humanos,Outros,1,2023-06-25,6374.24
+69429,Lucca Pereira,P&D,Problemas pessoais,6,2023-06-10,6217.15
+64845,Theo Moura,Atendimento ao Cliente,Outros,5,2023-06-14,10793.49
+43626,Luana Sales,Financeiro,Problemas pessoais,5,2023-06-17,7604.99
+83010,Bryan Gonçalves,Vendas,Doença,6,2023-06-07,5460.15
+54120,Otávio Barbosa,Atendimento ao Cliente,Problemas pessoais,7,2023-06-03,6990.91
+19259,Carlos Eduardo Ramos,P&D,Problemas pessoais,6,2023-06-23,11953.99
+95189,Agatha Santos,Vendas,Doença,8,2023-06-17,4576.88
+93615,Rodrigo Pereira,P&D,Viagem de negócios,7,2023-06-17,8276.97
+15610,João Carvalho,Marketing,Outros,5,2023-06-01,7846.57
+41537,Marcelo da Rosa,Financeiro,Outros,6,2023-06-19,7526.48
+59716,Milena Cunha,TI,Viagem de negócios,8,2023-06-03,8202.6
+84851,Dr. Rodrigo Nunes,Engenharia,Consulta médica,8,2023-06-28,7424.98
+59317,Rafaela Lopes,P&D,Outros,2,2023-06-10,4835.2
+86073,Maria Alice Moraes,TI,Viagem de negócios,4,2023-06-28,12406.79
+48642,Ana Vitória Teixeira,Marketing,Outros,7,2023-06-13,7169.9
+35828,Yuri Dias,Engenharia,Problemas pessoais,3,2023-06-20,9330.46
+87586,Rebeca Aragão,Engenharia,Consulta médica,4,2023-06-21,4114.58
+88614,Carolina Nunes,Financeiro,Consulta médica,4,2023-06-12,10612.77
+9433,Luiz Henrique da Luz,Atendimento ao Cliente,Consulta médica,2,2023-06-18,2501.66
+88532,João Felipe Mendes,Recursos Humanos,Doença,6,2023-06-01,5010.9
+9463,Gustavo Henrique Costa,Vendas,Problemas pessoais,3,2023-06-02,2964.79
+6299,Felipe Alves,Vendas,Viagem de negócios,1,2023-06-07,8278.04
+32583,Luiza Lima,Atendimento ao Cliente,Problemas pessoais,3,2023-06-22,4585.84
+87215,Ana Carolina Fogaça,P&D,Problemas pessoais,8,2023-06-20,4093.91
+2095,Benjamin Lopes,Engenharia,Outros,6,2023-06-04,11554.16
+50115,Otávio da Rocha,Marketing,Outros,6,2023-06-11,6602.59
+66281,Otávio Castro,TI,Doença,6,2023-06-14,7884.87
+58148,Maria Cecília da Mota,P&D,Viagem de negócios,7,2023-06-14,4323.82
+29437,Ana Carolina Correia,Recursos Humanos,Problemas pessoais,7,2023-06-15,8365.77
+78641,Sr. André da Conceição,Financeiro,Viagem de negócios,7,2023-06-06,6251.68
+74160,Vicente Costela,Financeiro,Problemas pessoais,4,2023-06-01,7185.04
+83695,Camila da Mota,Vendas,Problemas pessoais,5,2023-06-14,12455.8
+35363,Mariane Duarte,Financeiro,Outros,6,2023-06-14,12194.94
+11701,Marcos Vinicius Gonçalves,P&D,Doença,4,2023-06-07,2518.54
+8722,Luiz Otávio Cunha,P&D,Outros,8,2023-06-09,2972.12
+66898,Laura Oliveira,Operações,Outros,5,2023-06-17,2624.75
+64387,Rafaela Lima,Vendas,Problemas pessoais,3,2023-06-02,3661.93
+76517,Caio Souza,Atendimento ao Cliente,Consulta médica,6,2023-06-25,11661.5
+88563,Fernando da Conceição,Financeiro,Viagem de negócios,3,2023-06-17,12332.48
+68312,Sabrina Alves,Financeiro,Problemas pessoais,3,2023-06-23,6276.6
+62223,Daniel Costela,Atendimento ao Cliente,Problemas pessoais,5,2023-06-08,7379.83
+70563,Alícia da Rosa,P&D,Problemas pessoais,2,2023-06-26,7032.8
+70286,Dr. Emanuel Moreira,Financeiro,Viagem de negócios,2,2023-06-12,7282.91
+28774,Dra. Evelyn da Paz,Vendas,Consulta médica,1,2023-06-26,9208.62
+98338,Gustavo Henrique da Conceição,Jurídico,Consulta médica,2,2023-06-12,7778.75
+3767,Bianca Gonçalves,Recursos Humanos,Consulta médica,7,2023-06-03,7014.96
+35649,Maria Sophia Porto,Marketing,Consulta médica,3,2023-06-20,2907.74
+72966,Esther Almeida,Jurídico,Consulta médica,7,2023-06-20,10437.42
+54806,Raquel Ribeiro,Operações,Consulta médica,2,2023-06-01,6070.84
+1569,Alana Peixoto,Financeiro,Doença,8,2023-06-05,4014.95
+30112,Mariana Fogaça,Atendimento ao Cliente,Consulta médica,4,2023-06-12,4385.34
+3970,Gustavo Henrique da Cruz,Marketing,Problemas pessoais,6,2023-06-26,6117.86
+88128,Sra. Luiza Freitas,Marketing,Doença,4,2023-06-10,5018.58
+42646,Maria Luiza Jesus,Vendas,Viagem de negócios,7,2023-06-18,8233.54
+34611,Bernardo Silva,Engenharia,Consulta médica,8,2023-06-23,11750.56
+46738,Dra. Amanda da Luz,Vendas,Viagem de negócios,4,2023-06-20,8866.67
+73586,Stella Cunha,Financeiro,Viagem de negócios,3,2023-06-25,11344.55
+11836,Dra. Alice Rezende,TI,Consulta médica,8,2023-06-09,12268.15
+39399,Dra. Clara Cavalcanti,Atendimento ao Cliente,Problemas pessoais,6,2023-06-12,7676.57
+72124,Luna Castro,P&D,Consulta médica,8,2023-06-13,8576.83
+20584,Rafael Moraes,TI,Doença,2,2023-06-20,3757.73
+31220,Caroline Nunes,Engenharia,Outros,6,2023-06-13,5797.71
+79266,Igor Porto,Jurídico,Doença,8,2023-06-29,6243.18
+60073,Rebeca Melo,Marketing,Problemas pessoais,8,2023-06-14,4646.25
+81314,Paulo da Cunha,Recursos Humanos,Consulta médica,8,2023-06-08,7058.63
+50430,Heloísa Araújo,Atendimento ao Cliente,Outros,6,2023-06-23,10178.42
+51793,Murilo Porto,Engenharia,Outros,6,2023-06-04,6821.35
+10869,Srta. Nicole Freitas,Jurídico,Problemas pessoais,3,2023-06-15,8597.91
+3779,Vinicius Cavalcanti,Recursos Humanos,Problemas pessoais,1,2023-06-06,5680.09
+87859,Heitor Porto,TI,Consulta médica,7,2023-06-05,12252.37
+36658,Dr. Luigi Ribeiro,Recursos Humanos,Consulta médica,1,2023-06-22,3856.54
+25395,Davi da Mota,Operações,Doença,4,2023-06-25,9056.49
+85344,Sophie Ferreira,Marketing,Consulta médica,6,2023-06-24,5038.44
+38444,Rafael Alves,Operações,Doença,6,2023-06-05,4011.86
+46462,Stephany Moraes,Vendas,Doença,2,2023-06-19,12325.3
+64953,Rebeca Caldeira,Recursos Humanos,Problemas pessoais,3,2023-06-23,6002.56
+95566,Dra. Nina Barbosa,P&D,Outros,6,2023-06-19,11034.49
+98413,Srta. Valentina da Luz,Operações,Problemas pessoais,3,2023-06-10,4826.78
+31477,Sarah da Luz,Jurídico,Doença,4,2023-06-14,5372.71
+9548,Benjamin Rodrigues,Jurídico,Consulta médica,3,2023-06-24,5443.21
+68230,Larissa Ribeiro,Recursos Humanos,Viagem de negócios,8,2023-06-25,3042.38
+44784,Carolina Cardoso,Atendimento ao Cliente,Problemas pessoais,4,2023-06-27,4210.87
+9413,Sr. Vitor Gabriel Rezende,Engenharia,Viagem de negócios,6,2023-06-29,3281.66
+5662,Dra. Maria Alice Costela,P&D,Outros,7,2023-06-20,10092.54
+32609,Marcela Silva,Financeiro,Doença,1,2023-06-17,11298.75
+78087,Dr. Carlos Eduardo Silva,Financeiro,Doença,4,2023-06-07,3884.1
+27707,Murilo Duarte,Recursos Humanos,Consulta médica,5,2023-06-18,12476.19
+17963,Daniela Cavalcanti,Vendas,Viagem de negócios,6,2023-06-27,12344.99
+77343,Raul Aragão,Operações,Doença,4,2023-06-03,8027.64
+64715,Pietra Santos,Financeiro,Outros,4,2023-06-13,8003.53
+22946,Yuri da Costa,Marketing,Consulta médica,3,2023-06-10,8899.49
+91479,Thales Moura,Marketing,Viagem de negócios,8,2023-06-29,10632.8
+90789,Luna da Luz,Marketing,Doença,3,2023-06-23,12384.16
+71130,Benjamin Caldeira,Operações,Doença,4,2023-06-05,4390.9
+46245,Lorenzo Dias,Marketing,Doença,5,2023-06-05,10266.26
+13260,Vicente Fernandes,Recursos Humanos,Outros,5,2023-06-08,7588.47
+90122,Joana da Luz,P&D,Problemas pessoais,2,2023-06-20,10860.33
+2221,Dra. Raquel Freitas,Vendas,Outros,7,2023-06-07,7342.2
+45847,Pedro Dias,Financeiro,Outros,4,2023-06-17,11250.72
+30133,Ian Cunha,Financeiro,Doença,6,2023-06-26,8784.28
+17996,Sr. Juan Fogaça,Vendas,Problemas pessoais,4,2023-06-08,3410.49
+75214,Sra. Vitória Cardoso,Recursos Humanos,Viagem de negócios,7,2023-06-04,11562.44
+40380,Gabrielly Pereira,Recursos Humanos,Consulta médica,2,2023-06-18,4796.71
+49140,Luiz Miguel Aragão,Vendas,Problemas pessoais,1,2023-06-03,5334.28
+68156,Diego da Conceição,TI,Outros,8,2023-06-12,5160.85
+95454,Catarina Castro,Atendimento ao Cliente,Consulta médica,8,2023-06-16,9586.72
+40694,Isadora Novaes,Engenharia,Doença,5,2023-06-06,7173.14
+66440,Davi Lucas Nascimento,TI,Viagem de negócios,5,2023-06-12,3930.65
+4424,Srta. Helena Costa,Operações,Consulta médica,3,2023-06-12,3703.02
+31495,Leandro Viana,Vendas,Problemas pessoais,8,2023-06-28,3252.85
+15306,Francisco Novaes,Operações,Viagem de negócios,6,2023-06-14,11503.99
+20375,Lavínia Correia,Recursos Humanos,Consulta médica,7,2023-06-18,5145.03
+28689,Lara Monteiro,Marketing,Outros,2,2023-06-04,8966.85
+82782,Leonardo Nascimento,P&D,Consulta médica,7,2023-06-17,7087.8
+42475,Vicente da Mota,Atendimento ao Cliente,Outros,5,2023-06-17,6493.29
+63804,Rafael Almeida,Financeiro,Viagem de negócios,3,2023-06-11,9600.91
+46280,Felipe Farias,Financeiro,Doença,4,2023-06-20,9039.56
+66078,Daniela Pereira,Vendas,Outros,1,2023-06-24,9426.62
+55517,Gustavo Henrique Monteiro,Jurídico,Doença,4,2023-06-25,11224.48
+45849,Nicolas Pinto,TI,Viagem de negócios,4,2023-06-24,10742.5
+56482,Sr. Pedro Lucas da Rosa,P&D,Problemas pessoais,3,2023-06-29,6862.23
+21953,Sr. Francisco Nunes,TI,Problemas pessoais,5,2023-06-09,7619.78
+167,Milena Vieira,Recursos Humanos,Outros,1,2023-06-16,6418.93
+71563,Vitor Gabriel Nunes,Financeiro,Outros,7,2023-06-17,4559.35
+40696,Dr. Luiz Gustavo Moura,TI,Viagem de negócios,8,2023-06-21,7940.06
+17506,Sr. Leandro Fernandes,Marketing,Doença,8,2023-06-14,5420.94
+91897,Yasmin Jesus,Marketing,Outros,6,2023-06-05,9295.26
+13791,Noah Barbosa,Jurídico,Outros,1,2023-06-26,6228.71
+51740,Alana Sales,Recursos Humanos,Outros,5,2023-06-03,3907.5
+78863,Vitória Silveira,Financeiro,Consulta médica,7,2023-06-19,8264.0
+63623,Sr. Augusto Fogaça,Operações,Doença,3,2023-06-14,10934.61
+53928,Elisa Gonçalves,Operações,Outros,2,2023-06-02,10324.99
+62583,Clara Azevedo,P&D,Outros,5,2023-06-08,9648.57
+74981,Emanuel Almeida,Financeiro,Problemas pessoais,2,2023-06-20,8524.25
+72457,Sr. Theo da Luz,Marketing,Problemas pessoais,1,2023-06-15,5712.36
+2708,Sr. Cauã da Rocha,Vendas,Outros,4,2023-06-18,2930.0
+3352,Mariane Nunes,P&D,Viagem de negócios,3,2023-06-07,10253.9
+52062,Augusto Gonçalves,Marketing,Problemas pessoais,8,2023-06-05,7820.71
+17358,Sabrina Viana,TI,Outros,1,2023-06-01,8529.71
+74514,Esther Caldeira,Engenharia,Outros,5,2023-06-22,5724.8
+15636,Thomas Silveira,Operações,Doença,2,2023-06-16,10550.3
+99348,Gabrielly Souza,TI,Consulta médica,6,2023-06-22,3537.24
+10193,Kaique Azevedo,Engenharia,Outros,2,2023-06-19,3847.48
+67411,Dr. Luiz Felipe Dias,Engenharia,Problemas pessoais,4,2023-06-16,11238.66
+18968,Sr. Vitor Gabriel Moreira,P&D,Viagem de negócios,7,2023-06-14,4586.65
+79064,Mariane Silveira,Jurídico,Problemas pessoais,3,2023-06-10,10382.21
+3694,Sra. Maria Melo,Jurídico,Consulta médica,4,2023-06-14,3598.3
+74242,Alexandre Gomes,TI,Outros,1,2023-06-04,6270.39
+15525,Giovanna Oliveira,Vendas,Outros,5,2023-06-10,10367.6
+1397,Dr. João Felipe da Cruz,Vendas,Consulta médica,1,2023-06-27,8601.15
+56926,Gustavo Henrique Almeida,Vendas,Doença,6,2023-06-24,3340.34
+94746,Sra. Beatriz Correia,Engenharia,Doença,7,2023-06-02,9358.94
+41777,Dra. Heloísa Peixoto,Vendas,Problemas pessoais,4,2023-06-04,2793.07
+9787,Alana Azevedo,Recursos Humanos,Doença,5,2023-06-12,5911.01
+94754,Maria Cecília Sales,Vendas,Problemas pessoais,8,2023-06-22,6058.65
+69937,Isis Alves,P&D,Outros,3,2023-06-17,11139.71
+54216,Davi Lucas Ferreira,P&D,Consulta médica,3,2023-06-17,9624.55
+69151,Luiza Moreira,P&D,Problemas pessoais,6,2023-06-21,11470.38
+52409,Leandro Cardoso,Recursos Humanos,Outros,6,2023-06-10,11508.75
+35485,Leandro Rocha,TI,Viagem de negócios,8,2023-06-12,6918.94
+12020,Ana Vitória da Rosa,Jurídico,Doença,1,2023-06-24,3371.37
+95467,Davi Azevedo,Jurídico,Problemas pessoais,4,2023-06-09,4469.54
+71635,Luna Monteiro,Vendas,Problemas pessoais,8,2023-06-12,10226.04
+8013,Maria Luiza Correia,Operações,Doença,5,2023-06-02,6179.57
+46552,Srta. Ana Carolina Gomes,Vendas,Problemas pessoais,5,2023-06-23,5361.2
+9050,Catarina Cunha,Atendimento ao Cliente,Outros,5,2023-06-19,4238.76
+30108,Laís Oliveira,TI,Consulta médica,7,2023-06-18,2745.78
+62818,Amanda Monteiro,Jurídico,Problemas pessoais,2,2023-06-18,11750.39
+8712,Vitória Correia,P&D,Outros,8,2023-06-17,12431.28
+3746,Luiz Felipe Rodrigues,Operações,Consulta médica,2,2023-06-08,8800.4
+31084,Dr. Isaac Vieira,Recursos Humanos,Problemas pessoais,4,2023-06-29,6316.34
+85734,Maria Vitória Novaes,Operações,Consulta médica,4,2023-06-22,11692.93
+180,Luiz Henrique Silveira,Financeiro,Problemas pessoais,6,2023-06-29,11223.94
+91816,Benjamin Aragão,Engenharia,Problemas pessoais,5,2023-06-10,4486.97
+34300,Luigi Azevedo,Marketing,Consulta médica,8,2023-06-29,7447.13
+21422,Julia Oliveira,Engenharia,Problemas pessoais,5,2023-06-03,7038.69
+20754,Natália da Luz,Financeiro,Viagem de negócios,3,2023-06-18,3724.63
+78953,Sr. Benício Freitas,Operações,Outros,3,2023-06-28,12442.67
+38008,Daniela da Mata,TI,Viagem de negócios,8,2023-06-21,7434.23
+45082,Ana Laura Teixeira,Recursos Humanos,Consulta médica,5,2023-06-27,3890.37
+38665,Vitor Gabriel Moura,Vendas,Consulta médica,7,2023-06-27,10519.24
+33983,Júlia Melo,Engenharia,Consulta médica,2,2023-06-26,5189.61
+15904,Sarah Duarte,Financeiro,Outros,8,2023-06-24,11528.37
+59828,Thiago Gonçalves,Operações,Consulta médica,7,2023-06-11,8575.59
+49503,Sarah Alves,Engenharia,Doença,6,2023-06-24,7461.65
+17791,Ana Mendes,Jurídico,Outros,7,2023-06-21,8268.83
+75029,Yuri Cardoso,Atendimento ao Cliente,Outros,2,2023-06-27,5899.89
+58323,Cauã Viana,Recursos Humanos,Viagem de negócios,3,2023-06-25,4618.68
+1873,Lucca Ribeiro,Recursos Humanos,Problemas pessoais,2,2023-06-26,11465.47
+61505,Isaac Sales,Operações,Consulta médica,3,2023-06-06,8652.66
+21994,Paulo Jesus,P&D,Consulta médica,7,2023-06-13,4272.52
+92436,Mariana da Costa,Vendas,Consulta médica,1,2023-06-17,10073.53
+3433,Maria Fernanda Fogaça,Operações,Doença,5,2023-06-21,10328.63
+36400,Bárbara Mendes,Jurídico,Consulta médica,3,2023-06-09,11266.78
+57619,Beatriz Nogueira,Operações,Doença,1,2023-06-01,4325.24
+74579,Mariana Santos,Financeiro,Viagem de negócios,8,2023-06-17,12095.97
+30281,Ana Beatriz da Mota,TI,Doença,8,2023-06-04,4540.68
+67054,Lorena da Rocha,P&D,Consulta médica,7,2023-06-14,11451.17
+25744,Dr. Nicolas da Rocha,Engenharia,Doença,8,2023-06-11,5735.82
+11966,Alícia Pires,Jurídico,Viagem de negócios,7,2023-06-01,2627.82
+93983,Emilly Ferreira,Engenharia,Doença,7,2023-06-26,5337.69
+97852,Maria Eduarda Cardoso,Engenharia,Outros,7,2023-06-18,7817.2
+29922,Dr. João Lucas Santos,P&D,Problemas pessoais,2,2023-06-02,5865.14
+71243,Maria Fernanda Gomes,Atendimento ao Cliente,Outros,5,2023-06-21,11851.31
+717,Cauê Aragão,Jurídico,Viagem de negócios,3,2023-06-23,6882.63
+97376,Vitória Moreira,Recursos Humanos,Problemas pessoais,8,2023-06-22,10951.66
+56773,Marcos Vinicius da Mota,TI,Problemas pessoais,6,2023-06-29,4400.97
+28607,Sr. Luigi Costa,Financeiro,Doença,4,2023-06-24,10014.65
+81528,Isadora Gomes,TI,Problemas pessoais,5,2023-06-27,9704.2
+42072,Emanuella Rocha,Jurídico,Doença,5,2023-06-14,12181.91
+8748,Srta. Helena Monteiro,Marketing,Consulta médica,6,2023-06-19,8186.61
+68880,Pedro Cavalcanti,Marketing,Consulta médica,4,2023-06-09,11026.37
+5038,Guilherme da Costa,Vendas,Doença,5,2023-06-19,5020.48
+33294,Samuel Rezende,Atendimento ao Cliente,Outros,1,2023-06-24,9300.71
+2388,Yuri Alves,Engenharia,Outros,1,2023-06-12,2842.49
+15992,João Gabriel Alves,Atendimento ao Cliente,Problemas pessoais,4,2023-06-03,10041.95
+30347,Maria Clara Moreira,Engenharia,Viagem de negócios,6,2023-06-27,11620.28
+34965,Mirella Dias,Operações,Consulta médica,6,2023-06-15,7821.53
+29162,Lucas Gabriel da Mata,Financeiro,Doença,5,2023-06-28,8946.66
+14832,Gabriela das Neves,Jurídico,Viagem de negócios,3,2023-06-07,5600.15
+13710,Murilo Duarte,Marketing,Viagem de negócios,2,2023-06-24,5840.74
+63956,Srta. Olivia Melo,Financeiro,Doença,8,2023-06-27,11006.87
+64300,Kevin Costela,Engenharia,Consulta médica,5,2023-06-20,6942.09
+87216,Dra. Kamilly Barbosa,TI,Viagem de negócios,6,2023-06-14,5462.93
+55149,Pietra Cavalcanti,P&D,Outros,2,2023-06-18,12430.4
+16875,Manuela Martins,Financeiro,Outros,6,2023-06-27,7814.32
+90871,Dra. Joana Peixoto,TI,Viagem de negócios,5,2023-06-14,10150.97
+82395,Vitor Hugo Souza,Recursos Humanos,Doença,5,2023-06-24,6503.05
+9451,Pedro Miguel Azevedo,Operações,Consulta médica,1,2023-06-24,5439.57
+36499,Heitor Almeida,Marketing,Outros,6,2023-06-09,4360.74
+6290,Leonardo Farias,Financeiro,Outros,5,2023-06-26,10638.32
+10549,Yuri Freitas,Atendimento ao Cliente,Outros,1,2023-06-16,3680.81
+70466,Joaquim da Rocha,Atendimento ao Cliente,Outros,4,2023-06-12,10825.56
+41463,Carlos Eduardo Peixoto,Atendimento ao Cliente,Consulta médica,1,2023-06-11,11795.16
+37282,Pedro Miguel da Rocha,Jurídico,Doença,5,2023-06-20,6952.32
+97544,Davi Luiz Pereira,P&D,Consulta médica,2,2023-06-17,6578.74
+3471,Eloah Teixeira,Engenharia,Outros,7,2023-06-26,5440.26
+53430,Lucca Nascimento,Engenharia,Consulta médica,6,2023-06-10,6298.36
+42572,Kevin da Cruz,Vendas,Doença,3,2023-06-17,3386.48
+81702,Amanda Gonçalves,Jurídico,Consulta médica,1,2023-06-27,9486.58
+69041,Nina Silva,Marketing,Doença,2,2023-06-26,3096.9
+17355,Valentina Sales,Jurídico,Viagem de negócios,1,2023-06-28,9802.13
+50079,Pedro Henrique Fogaça,Engenharia,Doença,3,2023-06-12,10012.16
+67401,Igor Aragão,Marketing,Doença,4,2023-06-01,10686.37
+709,André da Rocha,Financeiro,Doença,3,2023-06-25,10790.07
+90948,Bernardo Sales,Atendimento ao Cliente,Viagem de negócios,1,2023-06-29,5043.32
+59617,Emanuelly Cardoso,Financeiro,Viagem de negócios,8,2023-06-07,10506.29
+19710,Bryan Fogaça,Engenharia,Viagem de negócios,8,2023-06-27,6798.88
+14630,Sra. Fernanda Moreira,Atendimento ao Cliente,Viagem de negócios,5,2023-06-12,4747.29
+61607,Helena da Luz,Marketing,Problemas pessoais,5,2023-06-15,6391.53
+62755,Maria Vitória da Cruz,Recursos Humanos,Viagem de negócios,5,2023-06-12,9579.61
+12535,Ana Laura das Neves,Recursos Humanos,Viagem de negócios,1,2023-06-24,12442.15
+69008,Alícia Rezende,Operações,Doença,4,2023-06-15,11515.05
+99885,Bianca Carvalho,P&D,Viagem de negócios,6,2023-06-01,9683.23
+70854,Felipe Carvalho,Recursos Humanos,Viagem de negócios,2,2023-06-29,6851.73
+68774,Vitor Gabriel Pereira,Marketing,Outros,2,2023-06-05,11728.01
+21557,Mirella Cardoso,Vendas,Consulta médica,6,2023-06-27,8081.53
+78162,Sra. Luana Cardoso,Vendas,Problemas pessoais,7,2023-06-10,4163.76
+29354,Eduarda Gomes,Engenharia,Consulta médica,4,2023-06-01,8421.61
+51557,Maria Alice Ribeiro,Financeiro,Consulta médica,3,2023-06-09,7283.21
+21154,Srta. Manuela Melo,Marketing,Outros,4,2023-06-17,11559.17
+49627,Danilo Ribeiro,Recursos Humanos,Doença,1,2023-06-10,11598.93
+68249,Alexia Fogaça,Financeiro,Problemas pessoais,3,2023-06-27,2652.86
+3795,Dr. Benjamin Costa,Marketing,Consulta médica,4,2023-06-29,7130.03
+62505,Lorena Viana,TI,Viagem de negócios,1,2023-06-07,2933.28
+17994,Pedro Henrique Cardoso,Engenharia,Consulta médica,8,2023-06-13,12202.61
+59018,Emanuella Gonçalves,Jurídico,Viagem de negócios,5,2023-06-23,7962.35
+81960,Kaique da Mata,Recursos Humanos,Viagem de negócios,5,2023-06-20,8959.72
+41567,Cauã da Conceição,Operações,Outros,2,2023-06-14,4617.35
+14696,Cauê Costa,Recursos Humanos,Outros,3,2023-06-28,7134.82
+63891,Letícia Ferreira,Jurídico,Problemas pessoais,4,2023-06-13,6524.41
+12046,Lucas Gabriel Gonçalves,Engenharia,Viagem de negócios,1,2023-06-06,11168.25
+45978,Esther Moreira,P&D,Doença,3,2023-06-16,7350.5
+34366,Bárbara Correia,Engenharia,Viagem de negócios,5,2023-06-18,5481.27
+8089,Pedro Lucas Correia,Jurídico,Viagem de negócios,6,2023-06-12,7890.93
+12925,Erick Vieira,TI,Problemas pessoais,6,2023-06-19,9067.13
+82031,Dr. Ryan Silva,Recursos Humanos,Doença,5,2023-06-15,9627.76
+50756,Dra. Agatha Gomes,TI,Outros,2,2023-06-12,10515.14
+96634,Larissa Moreira,TI,Doença,1,2023-06-28,11303.3
+47002,João Pedro Campos,P&D,Outros,8,2023-06-16,9881.03
+1520,Sra. Mariane da Costa,Operações,Doença,6,2023-06-22,5813.57
+95421,Sr. Miguel Martins,TI,Consulta médica,8,2023-06-03,12009.95
+15352,Srta. Amanda Santos,P&D,Doença,4,2023-06-01,10116.77
+21524,Carolina Rodrigues,TI,Doença,3,2023-06-09,2741.45
+68817,Clara Monteiro,P&D,Viagem de negócios,7,2023-06-03,8144.92
+74754,Samuel Jesus,Recursos Humanos,Doença,4,2023-06-20,5591.15
+43844,Emanuelly Costa,P&D,Doença,1,2023-06-12,6631.99
+36954,Lorenzo Caldeira,Financeiro,Outros,8,2023-06-11,6156.18
+11787,Sophia Freitas,Jurídico,Problemas pessoais,3,2023-06-05,4307.49
+52571,Luigi Lima,Marketing,Viagem de negócios,2,2023-06-17,2619.37
+17483,Maria Fernanda Peixoto,Engenharia,Consulta médica,5,2023-06-18,10094.5
+87806,Ana Júlia Dias,Recursos Humanos,Problemas pessoais,2,2023-06-29,8507.31
+53968,Dr. Thiago Cunha,Operações,Outros,2,2023-06-22,8474.85
+39487,Alexandre Novaes,Financeiro,Problemas pessoais,5,2023-06-16,7620.82
+43929,Benjamin Viana,Recursos Humanos,Outros,4,2023-06-23,10289.9
