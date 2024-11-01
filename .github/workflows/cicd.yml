@@ -21,5 +21,8 @@ jobs:
       - name: Install dependencies with poetry
         run: poetry install
 
+      - name: Variável de ambiente
+        run: export PYTHONPATH=.
+
       - name: Run pytest
         run: poetry run pytest -v
