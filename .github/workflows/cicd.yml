@@ -5,6 +5,8 @@ on: [pull_request]
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: .
     steps:
       - name: Check out code
         uses: actions/checkout@v2
