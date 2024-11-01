@@ -5,6 +5,8 @@ on: [pull_request]
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: .
     steps:
       - name: Check out code
         uses: actions/checkout@v2
@@ -20,9 +22,6 @@ jobs:
 
       - name: Install dependencies with poetry
         run: poetry install
-
-      - name: Variável de ambiente
-        run: export PYTHONPATH=.
 
       - name: Run pytest
         run: poetry run pytest -v
