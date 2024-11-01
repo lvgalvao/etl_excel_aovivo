@@ -19,3 +19,8 @@ openpyxl = "^3.1.5"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.taskipy.tasks]
+test = "pytest -v"
+docs = "mkdocs serve"
+run = "python src/pipeline.py"

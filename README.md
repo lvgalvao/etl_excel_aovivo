@@ -21,3 +21,17 @@ Instale as dependências
 ```bash
 poetry install
 ```
+
+3. Rode o projeto
+```bash
+task run
+```
+4. Rode os testes
+```bash
+task test
+```
+
+5. Rode a documentação
+```bash
+task docs
+```
